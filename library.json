@@ -1,0 +1,22 @@
+{
+    "name": "pwaNotification",
+    "keywords": "iot,notification,pwa",
+    "description": "Notification Service For PWA User.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/godda/pwaNotification.git"
+    },
+    "authors": {
+        "name": "Chawanwit Poolsri",
+        "url": "http://www.binahead.com"
+    },
+    "version": "0.0.1",
+    "exclude": "",
+    "examples": "examples/*/*.ino",
+    "frameworks": "arduino",
+    "platforms": [
+        "atmelavr",
+        "espressif8266",
+        "espressif32"
+    ]
+}
